@@ -1,5 +1,3 @@
-# Tutor-Marked Assignment - July 2022 Presentation
-
 ## Overview
 
 This repository contains the Jupyter Notebook for the Tutor-Marked Assignment (TMA) for my ICT233 Data Programming course. The assignment is focused on data manipulation, analysis, and visualization using pandas, SQLite, and SQLAlchemy in the context of managing tasks and teams.
